@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tdethinne
 - 👀 I’m interested in remote sensing, mainly in the cryosphere domain.
-- 🌱 I’m currently learning how to perform data assimilation on RMC.
+- 🌱 I’m currently learning how to perform data assimilation into RMC.
 - 📫 How to reach me : don't for now 
 
 <!---
